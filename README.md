@@ -32,8 +32,11 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasibulislamshaon&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulislamshaon&layout=compact&theme=dark)  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hasibulislamshaon&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasibulislamshaon&theme=react-dark)  
-![GitHub Metrics](https://github.com/hasibulislamshaon/github-metrics/blob/master/github-metrics.svg)  
+![Profile Views](https://komarev.com/ghpvc/?username=hasibulislamshaon&color=blueviolet)
+![GitHub Metrics](https://github.com/hasibulislamshaon/github-metrics/blob/main/github-metrics.svg)
+
+
+
 
 
 ---
